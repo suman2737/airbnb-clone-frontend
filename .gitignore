@@ -24,4 +24,5 @@ dist-ssr
 *.sw?
 
 .idea
+# Ignore node modules
 .env
